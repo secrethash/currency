@@ -1,0 +1,25 @@
+{
+    "name": "clippedcode/currencyconvo",
+    "description": "Smart Currency Conversion PHP Script. Saves Quota and Your Money.",
+    "type": "library",
+    "license": "COMMERCIAL [clippedcode.com]",
+    "homepage": "https://clippedcode.com/shop/currency-convo",
+    "authors": [
+        {
+            "name": "Shashwat Mishra",
+            "email": "shashwat9630@gmail.com",
+            "homepage": "https://clippedcode.com/p/shashwat"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0",
+        "gilbitron/php-simplecache": "^1.4",
+        "nesbot/carbon": "^2.5"
+    },
+    "autoload": {
+      "psr-4": {
+        "Clippedcode\\Currency\\": "src/"
+      }
+    }
+}
