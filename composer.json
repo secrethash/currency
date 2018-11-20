@@ -2,7 +2,7 @@
     "name": "clippedcode/currency",
     "description": "Smart Currency Conversion PHP Script. Saves Quota and Your Money.",
     "type": "library",
-    "license": "proprietary", # ClippedCode.com Commercial License
+    "license": "proprietary", // ClippedCode.com Commercial License
     "homepage": "https://clippedcode.com/shop/currency-convo",
     "authors": [
         {
