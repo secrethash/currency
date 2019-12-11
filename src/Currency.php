@@ -1,5 +1,5 @@
 <?php
-namespace Clippedcode\Currency;
+namespace Secrethash\Currency;
 
 /**
  * Smart Conversion Library that uses Online
@@ -7,17 +7,12 @@ namespace Clippedcode\Currency;
  * APIs. This Library is Developed and Maintained
  * by Shashwat Mishra <shashwat9630@gmail.com>
  * 
- * This Library is bounded by License(s) that are to be purchased
- * online @ clippedcode.com
- * Using this Library without any License is Strictly Prohibitted
- * and any such use is not legal.
- * Any license that is purchased from clippedcode.com is valid for
- * lifetime for that particular user for the use limited by the license's
- * Terms and Conditions. The support is limited as it is mentioned on the website.
+ * This Library is developed under MIT License
+ * and is Open-Source.
  */
 
-use Clippedcode\Currency\Config;
-use Clippedcode\Currency\Providers\ {
+use Secrethash\Currency\Config;
+use Secrethash\Currency\Providers\ {
     SmartConvert\API,
     Exchangerate\Exchangerate,
     Currencylayer\Currencylayer
@@ -45,7 +40,7 @@ class Currency {
      */
     const PROVIDER = 'Providers';
     const DIR_SEPERATOR = '\\';
-    const LIBRARY = 'Clippedcode\Currency';
+    const LIBRARY = 'Secrethash\Currency';
 
     /**
      * Constructing the main function

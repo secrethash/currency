@@ -1,7 +1,7 @@
 <?php
-namespace Clippedcode\Currency\Engine;
+namespace Secrethash\Currency\Engine;
 
-use Clippedcode\Currency\Config;
+use Secrethash\Currency\Config;
 
 class Backbone {
 

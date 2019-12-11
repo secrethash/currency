@@ -9,7 +9,7 @@ You don't need to Pay Anything to any Currency Exchange API providers, all you n
 ![Just a Show-off](https://raw.githubusercontent.com/clippedcode/currency/master/just-a-showoff.png)
 Currency Conversion with Smart Currency Library is as simple as:
 ```php
-$currency = new Clippedcode\Currency\Currency;
+$currency = new Secrethash\Currency\Currency;
 
 echo $currency->convert(100, 'USD', 'INR');
 ```
@@ -21,7 +21,7 @@ require ('vendor/autoload.php’);
 ```
 2. Call the Package:
 ```php
-$currency = new Clippedcode\Currency\Currency;
+$currency = new Secrethash\Currency\Currency;
 $currency->convert(100, 'USD’, 'INR’);
 $currency->convertWith('exchangerate’, 100, 'INR’, 'USD’);
 ```
@@ -38,7 +38,7 @@ $currency->convertWith('exchangerate’, 100, 'INR’, 'USD’);
 # Installation
 Just run:
 ```bash
-composer require clippedcode/currency
+composer require secrethash/currency
 ```
 # Function explained:
 ### 1. convert();

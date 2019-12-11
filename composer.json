@@ -1,14 +1,13 @@
 {
-    "name": "clippedcode/currency",
+    "name": "secrethash/currency",
     "description": "Smart Currency Conversion PHP Script. Saves Quota and Your Money.",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://clippedcode.com/shop/currency-convo",
+    "homepage": "https://github.com/secrethash/currency",
     "authors": [
         {
             "name": "Shashwat Mishra",
             "email": "shashwat9630@gmail.com",
-            "homepage": "https://clippedcode.com/p/shashwat"
         }
     ],
     "minimum-stability": "stable",
@@ -19,7 +18,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Clippedcode\\Currency\\": "src/"
+        "Secrethash\\Currency\\": "src/"
       }
     }
 }

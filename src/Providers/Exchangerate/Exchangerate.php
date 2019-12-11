@@ -1,9 +1,9 @@
 <?php
-namespace Clippedcode\Currency\Providers\Exchangerate;
+namespace Secrethash\Currency\Providers\Exchangerate;
 
-use Clippedcode\Currency\Engine\Backbone;
+use Secrethash\Currency\Engine\Backbone;
 use Gilbitron\Util\SimpleCache;
-use Clippedcode\Currency\Config;
+use Secrethash\Currency\Config;
 
 class Exchangerate extends Backbone {
 

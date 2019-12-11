@@ -1,5 +1,5 @@
 <?php
-namespace Clippedcode\Currency;
+namespace Secrethash\Currency;
 
 class Config {
 

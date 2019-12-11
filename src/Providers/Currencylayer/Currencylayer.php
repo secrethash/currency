@@ -1,8 +1,8 @@
 <?php
-namespace Clippedcode\Currency\Providers\Currencylayer;
+namespace Secrethash\Currency\Providers\Currencylayer;
 
 // Personal Resources
-use Clippedcode\Currency\ {
+use Secrethash\Currency\ {
     Config,
     Engine\Backbone
 };

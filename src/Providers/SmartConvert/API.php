@@ -1,7 +1,7 @@
 <?php
-namespace Clippedcode\Currency\Providers\SmartConvert;
+namespace Secrethash\Currency\Providers\SmartConvert;
 
-use Clippedcode\Currency\ {
+use Secrethash\Currency\ {
     Config,
     Engine\Backbone,
     // Providers
