@@ -58,3 +58,6 @@ Same as `convert()` except an additional provider parameter.
 -   `$amount`: *(Type: Integer)* Amount to be converted
 -   `$from`: *(Type: String)* Accepts String with Currency Code (ex: `USD` or `INR`)
 -   `$to`: *(Type: String)* Accepts String with Currency Code (ex: `USD` or `INR`)
+
+# License
+This project is licensed under (ɔ) Copyleft GNU GPL v3.0
